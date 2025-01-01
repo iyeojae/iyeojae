@@ -3,7 +3,7 @@
 </div>
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=1000&width=435&lines=%EA%B7%80%EC%97%BD%EA%B3%A0+%EC%82%AC%EB%82%98%EC%9A%B4+%EC%82%AC%EC%9E%90+%ED%95%9C%EB%A7%88%EB%A6%AC" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&duration=2000&pause=1000&center=true&vCenter=true&height=25&lines=%EA%B7%80%EC%97%BD%EA%B3%A0+%EC%82%AC%EB%82%98%EC%9A%B4+%EC%82%AC%EC%9E%90+%ED%95%9C%EB%A7%88%EB%A6%AC" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
