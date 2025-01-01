@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=1000&width=435&lines=%EA%B7%80%EC%97%BD%EA%B3%A0+%EC%82%AC%EB%82%98%EC%9A%B4+%EC%82%AC%EC%9E%90+%ED%95%9C%EB%A7%88%EB%A6%AC" />
