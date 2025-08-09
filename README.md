@@ -1,4 +1,3 @@
-[]
 <div align="center">
   <img src="https://github.com/iyeojae/iyeojae/blob/main/102_shop1_613400.gif" />
 </div>
